@@ -4,11 +4,21 @@ I'm an Information Technology student at the University of Central Florida with 
 
 I love learning how technology can solve real-world problems, improve user experiences, and make everyday systems better. I'm always excited to learn something new, collaborate with others, and turn ideas into projects. ✨
 
+
+
 ## 💻 Tech Stack
 
-Java • C • HTML • CSS • JavaScript • MySQL • Figma • Android Studio • GitHub
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🤖 What I'm Currently Working On
+## 🤖 Currently Building
 
 I'm currently exploring how AI can improve the way we understand user feedback and make better design decisions.
 
@@ -117,5 +127,12 @@ I'm especially interested in projects that combine:
 
 My goal is to keep learning how these technologies work together and how they can be thoughtfully used to solve real problems, improve user experiences, and create useful products.
 ---
+
+## 🤝 Let's Connect!
+
+I'm always interested in meeting people working in technology, UI/UX, AI, project management, and emerging tech.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lianna-rahman-06a9921ba)
+
 
 ⭐ Always learning, building, and looking for the next interesting problem to solve!
